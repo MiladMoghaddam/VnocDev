@@ -1,0 +1,1928 @@
+***********STATISTICS**************
+Placement on a 3x3 mesh NoC: 
+GET_NALU: 5
+DECODE_HDR: 1
+DECODE_MB: 7
+INTRA_PRED: 0
+INTER_PRED: 2
+FRAME_BUFFER: 8
+DISPLAY: 3
+
+ ***************Frame : 0*****************
+
+ GET_NALU_PE_total_packet_injected:       1424
+ DECODE_HDR_PE_total_packet_injected:     1431
+ DECODE_MB_PE_total_packet_injected:      34452
+ INTRA_PRED_PE_total_packet_injected:     26928
+ INTER_PRED_PE_total_packet_injected:     26928
+ FRAME_BUFFER_PE_total_packet_injected:   26928
+ DISPLAY_PE_total_packet_injected:        1188
+ H264 total num of packets injected:      119279
+-----------------------------------------------
+ actual injection rate:                   1.3253
+ total num of packets injected:           119279
+ total num inj failed (PE buff full):     0
+ num of packets delivered after warmup:   119196
+ avg latency per packet after warmup:     19.1421 [cycles]
+ Total power (not scaled):              0.1397 [W]
+time :                          211.211879 211211879.000000 1.000000e+06
+
+ ***************Frame : 1*****************
+
+ GET_NALU_PE_total_packet_injected:       2849
+ DECODE_HDR_PE_total_packet_injected:     2862
+ DECODE_MB_PE_total_packet_injected:      48043
+ INTRA_PRED_PE_total_packet_injected:     53856
+ INTER_PRED_PE_total_packet_injected:     53859
+ FRAME_BUFFER_PE_total_packet_injected:   53859
+ DISPLAY_PE_total_packet_injected:        2376
+ H264 total num of packets injected:      217704
+-----------------------------------------------
+ actual injection rate:                   2.4189
+ total num of packets injected:           217704
+ total num inj failed (PE buff full):     0
+ num of packets delivered after warmup:   217621
+ avg latency per packet after warmup:     20.1937 [cycles]
+ Total power (not scaled):              0.1402 [W]
+time :                          395.844425 395844425.000000 1.000000e+06
+
+ ***************Frame : 2*****************
+
+ GET_NALU_PE_total_packet_injected:       4274
+ DECODE_HDR_PE_total_packet_injected:     4293
+ DECODE_MB_PE_total_packet_injected:      65578
+ INTRA_PRED_PE_total_packet_injected:     80784
+ INTER_PRED_PE_total_packet_injected:     80790
+ FRAME_BUFFER_PE_total_packet_injected:   80790
+ DISPLAY_PE_total_packet_injected:        3564
+ H264 total num of packets injected:      320073
+-----------------------------------------------
+ actual injection rate:                   3.5564
+ total num of packets injected:           320073
+ total num inj failed (PE buff full):     0
+ num of packets delivered after warmup:   319990
+ avg latency per packet after warmup:     20.6077 [cycles]
+ Total power (not scaled):              0.1403 [W]
+time :                          587.499643 587499643.000000 1.000000e+06
+
+ ***************Frame : 3*****************
+
+ GET_NALU_PE_total_packet_injected:       5699
+ DECODE_HDR_PE_total_packet_injected:     5724
+ DECODE_MB_PE_total_packet_injected:      100033
+ INTRA_PRED_PE_total_packet_injected:     107712
+ INTER_PRED_PE_total_packet_injected:     107721
+ FRAME_BUFFER_PE_total_packet_injected:   107721
+ DISPLAY_PE_total_packet_injected:        4752
+ H264 total num of packets injected:      439362
+-----------------------------------------------
+ actual injection rate:                   4.8818
+ total num of packets injected:           439362
+ total num inj failed (PE buff full):     0
+ num of packets delivered after warmup:   439279
+ avg latency per packet after warmup:     20.2092 [cycles]
+ Total power (not scaled):              0.1396 [W]
+time :                          798.682609 798682609.000000 1.000000e+06
+
+ ***************Frame : 4*****************
+
+ GET_NALU_PE_total_packet_injected:       7124
+ DECODE_HDR_PE_total_packet_injected:     7155
+ DECODE_MB_PE_total_packet_injected:      111856
+ INTRA_PRED_PE_total_packet_injected:     134640
+ INTER_PRED_PE_total_packet_injected:     134652
+ FRAME_BUFFER_PE_total_packet_injected:   134652
+ DISPLAY_PE_total_packet_injected:        5940
+ H264 total num of packets injected:      536019
+-----------------------------------------------
+ actual injection rate:                   5.9558
+ total num of packets injected:           536019
+ total num inj failed (PE buff full):     0
+ num of packets delivered after warmup:   535936
+ avg latency per packet after warmup:     20.4343 [cycles]
+ Total power (not scaled):              0.1396 [W]
+time :                          980.098689 980098689.000000 1.000000e+06
+
+ ***************Frame : 5*****************
+
+ GET_NALU_PE_total_packet_injected:       8549
+ DECODE_HDR_PE_total_packet_injected:     8586
+ DECODE_MB_PE_total_packet_injected:      120075
+ INTRA_PRED_PE_total_packet_injected:     161568
+ INTER_PRED_PE_total_packet_injected:     161583
+ FRAME_BUFFER_PE_total_packet_injected:   161583
+ DISPLAY_PE_total_packet_injected:        7128
+ H264 total num of packets injected:      629072
+-----------------------------------------------
+ actual injection rate:                   6.9897
+ total num of packets injected:           629072
+ total num inj failed (PE buff full):     0
+ num of packets delivered after warmup:   628989
+ avg latency per packet after warmup:     20.5826 [cycles]
+ Total power (not scaled):              0.1396 [W]
+time :                          1155.074255 1155074255.000000 1.000000e+06
+
+ ***************Frame : 6*****************
+
+ GET_NALU_PE_total_packet_injected:       9974
+ DECODE_HDR_PE_total_packet_injected:     10017
+ DECODE_MB_PE_total_packet_injected:      128362
+ INTRA_PRED_PE_total_packet_injected:     188496
+ INTER_PRED_PE_total_packet_injected:     188514
+ FRAME_BUFFER_PE_total_packet_injected:   188514
+ DISPLAY_PE_total_packet_injected:        8316
+ H264 total num of packets injected:      722193
+-----------------------------------------------
+ actual injection rate:                   8.0244
+ total num of packets injected:           722193
+ total num inj failed (PE buff full):     0
+ num of packets delivered after warmup:   722110
+ avg latency per packet after warmup:     20.6928 [cycles]
+ Total power (not scaled):              0.1396 [W]
+time :                          1329.928066 1329928066.000000 1.000000e+06
+
+ ***************Frame : 7*****************
+
+ GET_NALU_PE_total_packet_injected:       11399
+ DECODE_HDR_PE_total_packet_injected:     11448
+ DECODE_MB_PE_total_packet_injected:      136989
+ INTRA_PRED_PE_total_packet_injected:     215424
+ INTER_PRED_PE_total_packet_injected:     215445
+ FRAME_BUFFER_PE_total_packet_injected:   215445
+ DISPLAY_PE_total_packet_injected:        9504
+ H264 total num of packets injected:      815654
+-----------------------------------------------
+ actual injection rate:                   9.0628
+ total num of packets injected:           815654
+ total num inj failed (PE buff full):     0
+ num of packets delivered after warmup:   815571
+ avg latency per packet after warmup:     20.7783 [cycles]
+ Total power (not scaled):              0.1397 [W]
+time :                          1505.774391 1505774391.000000 1.000000e+06
+
+ ***************Frame : 8*****************
+
+ GET_NALU_PE_total_packet_injected:       12824
+ DECODE_HDR_PE_total_packet_injected:     12879
+ DECODE_MB_PE_total_packet_injected:      145140
+ INTRA_PRED_PE_total_packet_injected:     242352
+ INTER_PRED_PE_total_packet_injected:     242376
+ FRAME_BUFFER_PE_total_packet_injected:   242376
+ DISPLAY_PE_total_packet_injected:        10692
+ H264 total num of packets injected:      908639
+-----------------------------------------------
+ actual injection rate:                   10.0960
+ total num of packets injected:           908639
+ total num inj failed (PE buff full):     0
+ num of packets delivered after warmup:   908556
+ avg latency per packet after warmup:     20.8456 [cycles]
+ Total power (not scaled):              0.1397 [W]
+time :                          1680.651019 1680651019.000000 1.000000e+06
+
+ ***************Frame : 9*****************
+
+ GET_NALU_PE_total_packet_injected:       14249
+ DECODE_HDR_PE_total_packet_injected:     14310
+ DECODE_MB_PE_total_packet_injected:      153563
+ INTRA_PRED_PE_total_packet_injected:     269280
+ INTER_PRED_PE_total_packet_injected:     269307
+ FRAME_BUFFER_PE_total_packet_injected:   269307
+ DISPLAY_PE_total_packet_injected:        11880
+ H264 total num of packets injected:      1001896
+-----------------------------------------------
+ actual injection rate:                   11.1322
+ total num of packets injected:           1001896
+ total num inj failed (PE buff full):     0
+ num of packets delivered after warmup:   1001813
+ avg latency per packet after warmup:     20.9007 [cycles]
+ Total power (not scaled):              0.1397 [W]
+time :                          1856.114745 1856114745.000000 1.000000e+06
+
+ ***************Frame : 10*****************
+
+ GET_NALU_PE_total_packet_injected:       15674
+ DECODE_HDR_PE_total_packet_injected:     15741
+ DECODE_MB_PE_total_packet_injected:      163754
+ INTRA_PRED_PE_total_packet_injected:     296208
+ INTER_PRED_PE_total_packet_injected:     296238
+ FRAME_BUFFER_PE_total_packet_injected:   296238
+ DISPLAY_PE_total_packet_injected:        13068
+ H264 total num of packets injected:      1096921
+-----------------------------------------------
+ actual injection rate:                   12.1880
+ total num of packets injected:           1096921
+ total num inj failed (PE buff full):     0
+ num of packets delivered after warmup:   1096838
+ avg latency per packet after warmup:     20.9481 [cycles]
+ Total power (not scaled):              0.1397 [W]
+time :                          2034.686871 2034686871.000000 1.000000e+06
+
+ ***************Frame : 11*****************
+
+ GET_NALU_PE_total_packet_injected:       17099
+ DECODE_HDR_PE_total_packet_injected:     17172
+ DECODE_MB_PE_total_packet_injected:      176197
+ INTRA_PRED_PE_total_packet_injected:     323136
+ INTER_PRED_PE_total_packet_injected:     323169
+ FRAME_BUFFER_PE_total_packet_injected:   323169
+ DISPLAY_PE_total_packet_injected:        14256
+ H264 total num of packets injected:      1194198
+-----------------------------------------------
+ actual injection rate:                   13.2689
+ total num of packets injected:           1194198
+ total num inj failed (PE buff full):     0
+ num of packets delivered after warmup:   1194115
+ avg latency per packet after warmup:     20.9850 [cycles]
+ Total power (not scaled):              0.1397 [W]
+time :                          2217.228427 2217228427.000000 1.000000e+06
+
+ ***************Frame : 12*****************
+
+ GET_NALU_PE_total_packet_injected:       18524
+ DECODE_HDR_PE_total_packet_injected:     18603
+ DECODE_MB_PE_total_packet_injected:      188574
+ INTRA_PRED_PE_total_packet_injected:     350064
+ INTER_PRED_PE_total_packet_injected:     350100
+ FRAME_BUFFER_PE_total_packet_injected:   350100
+ DISPLAY_PE_total_packet_injected:        15444
+ H264 total num of packets injected:      1291409
+-----------------------------------------------
+ actual injection rate:                   14.3490
+ total num of packets injected:           1291409
+ total num inj failed (PE buff full):     0
+ num of packets delivered after warmup:   1291326
+ avg latency per packet after warmup:     21.0152 [cycles]
+ Total power (not scaled):              0.1397 [W]
+time :                          2399.664869 2399664869.000000 1.000000e+06
+
+ ***************Frame : 13*****************
+
+ GET_NALU_PE_total_packet_injected:       19949
+ DECODE_HDR_PE_total_packet_injected:     20034
+ DECODE_MB_PE_total_packet_injected:      201018
+ INTRA_PRED_PE_total_packet_injected:     376992
+ INTER_PRED_PE_total_packet_injected:     377031
+ FRAME_BUFFER_PE_total_packet_injected:   377031
+ DISPLAY_PE_total_packet_injected:        16632
+ H264 total num of packets injected:      1388687
+-----------------------------------------------
+ actual injection rate:                   15.4299
+ total num of packets injected:           1388687
+ total num inj failed (PE buff full):     0
+ num of packets delivered after warmup:   1388604
+ avg latency per packet after warmup:     21.0417 [cycles]
+ Total power (not scaled):              0.1397 [W]
+time :                          2582.167134 2582167134.000000 1.000000e+06
+
+ ***************Frame : 14*****************
+
+ GET_NALU_PE_total_packet_injected:       21374
+ DECODE_HDR_PE_total_packet_injected:     21465
+ DECODE_MB_PE_total_packet_injected:      213391
+ INTRA_PRED_PE_total_packet_injected:     403920
+ INTER_PRED_PE_total_packet_injected:     403962
+ FRAME_BUFFER_PE_total_packet_injected:   403962
+ DISPLAY_PE_total_packet_injected:        17820
+ H264 total num of packets injected:      1485894
+-----------------------------------------------
+ actual injection rate:                   16.5099
+ total num of packets injected:           1485894
+ total num inj failed (PE buff full):     0
+ num of packets delivered after warmup:   1485811
+ avg latency per packet after warmup:     21.0661 [cycles]
+ Total power (not scaled):              0.1398 [W]
+time :                          2764.621887 2764621887.000000 1.000000e+06
+
+ ***************Frame : 15*****************
+
+ GET_NALU_PE_total_packet_injected:       22799
+ DECODE_HDR_PE_total_packet_injected:     22896
+ DECODE_MB_PE_total_packet_injected:      226316
+ INTRA_PRED_PE_total_packet_injected:     430848
+ INTER_PRED_PE_total_packet_injected:     430893
+ FRAME_BUFFER_PE_total_packet_injected:   430893
+ DISPLAY_PE_total_packet_injected:        19008
+ H264 total num of packets injected:      1583653
+-----------------------------------------------
+ actual injection rate:                   17.5961
+ total num of packets injected:           1583653
+ total num inj failed (PE buff full):     0
+ num of packets delivered after warmup:   1583570
+ avg latency per packet after warmup:     21.0842 [cycles]
+ Total power (not scaled):              0.1398 [W]
+time :                          2948.034682 2948034682.000000 1.000000e+06
+
+ ***************Frame : 16*****************
+
+ GET_NALU_PE_total_packet_injected:       24224
+ DECODE_HDR_PE_total_packet_injected:     24327
+ DECODE_MB_PE_total_packet_injected:      238961
+ INTRA_PRED_PE_total_packet_injected:     457776
+ INTER_PRED_PE_total_packet_injected:     457824
+ FRAME_BUFFER_PE_total_packet_injected:   457824
+ DISPLAY_PE_total_packet_injected:        20196
+ H264 total num of packets injected:      1681132
+-----------------------------------------------
+ actual injection rate:                   18.6792
+ total num of packets injected:           1681132
+ total num inj failed (PE buff full):     0
+ num of packets delivered after warmup:   1681049
+ avg latency per packet after warmup:     21.1035 [cycles]
+ Total power (not scaled):              0.1398 [W]
+time :                          3131.060191 3131060191.000000 1.000000e+06
+
+ ***************Frame : 17*****************
+
+ GET_NALU_PE_total_packet_injected:       25649
+ DECODE_HDR_PE_total_packet_injected:     25758
+ DECODE_MB_PE_total_packet_injected:      252560
+ INTRA_PRED_PE_total_packet_injected:     484704
+ INTER_PRED_PE_total_packet_injected:     484755
+ FRAME_BUFFER_PE_total_packet_injected:   484755
+ DISPLAY_PE_total_packet_injected:        21384
+ H264 total num of packets injected:      1779565
+-----------------------------------------------
+ actual injection rate:                   19.7729
+ total num of packets injected:           1779565
+ total num inj failed (PE buff full):     0
+ num of packets delivered after warmup:   1779482
+ avg latency per packet after warmup:     21.1204 [cycles]
+ Total power (not scaled):              0.1398 [W]
+time :                          3315.755206 3315755206.000000 1.000000e+06
+
+ ***************Frame : 18*****************
+
+ GET_NALU_PE_total_packet_injected:       27074
+ DECODE_HDR_PE_total_packet_injected:     27189
+ DECODE_MB_PE_total_packet_injected:      267941
+ INTRA_PRED_PE_total_packet_injected:     511632
+ INTER_PRED_PE_total_packet_injected:     511686
+ FRAME_BUFFER_PE_total_packet_injected:   511686
+ DISPLAY_PE_total_packet_injected:        22572
+ H264 total num of packets injected:      1879780
+-----------------------------------------------
+ actual injection rate:                   20.8864
+ total num of packets injected:           1879780
+ total num inj failed (PE buff full):     0
+ num of packets delivered after warmup:   1879697
+ avg latency per packet after warmup:     21.1308 [cycles]
+ Total power (not scaled):              0.1398 [W]
+time :                          3503.340648 3503340648.000000 1.000000e+06
+
+ ***************Frame : 19*****************
+
+ GET_NALU_PE_total_packet_injected:       28499
+ DECODE_HDR_PE_total_packet_injected:     28620
+ DECODE_MB_PE_total_packet_injected:      281334
+ INTRA_PRED_PE_total_packet_injected:     538560
+ INTER_PRED_PE_total_packet_injected:     538617
+ FRAME_BUFFER_PE_total_packet_injected:   538617
+ DISPLAY_PE_total_packet_injected:        23760
+ H264 total num of packets injected:      1978007
+-----------------------------------------------
+ actual injection rate:                   21.9779
+ total num of packets injected:           1978007
+ total num inj failed (PE buff full):     0
+ num of packets delivered after warmup:   1977924
+ avg latency per packet after warmup:     21.1453 [cycles]
+ Total power (not scaled):              0.1398 [W]
+time :                          3687.695777 3687695777.000000 1.000000e+06
+
+ ***************Frame : 20*****************
+
+ GET_NALU_PE_total_packet_injected:       29924
+ DECODE_HDR_PE_total_packet_injected:     30051
+ DECODE_MB_PE_total_packet_injected:      293974
+ INTRA_PRED_PE_total_packet_injected:     565488
+ INTER_PRED_PE_total_packet_injected:     565548
+ FRAME_BUFFER_PE_total_packet_injected:   565548
+ DISPLAY_PE_total_packet_injected:        24948
+ H264 total num of packets injected:      2075481
+-----------------------------------------------
+ actual injection rate:                   23.0609
+ total num of packets injected:           2075481
+ total num inj failed (PE buff full):     0
+ num of packets delivered after warmup:   2075398
+ avg latency per packet after warmup:     21.1598 [cycles]
+ Total power (not scaled):              0.1398 [W]
+time :                          3870.802938 3870802938.000000 1.000000e+06
+
+ ***************Frame : 21*****************
+
+ GET_NALU_PE_total_packet_injected:       31349
+ DECODE_HDR_PE_total_packet_injected:     31482
+ DECODE_MB_PE_total_packet_injected:      306342
+ INTRA_PRED_PE_total_packet_injected:     592416
+ INTER_PRED_PE_total_packet_injected:     592479
+ FRAME_BUFFER_PE_total_packet_injected:   592479
+ DISPLAY_PE_total_packet_injected:        26136
+ H264 total num of packets injected:      2172683
+-----------------------------------------------
+ actual injection rate:                   24.1409
+ total num of packets injected:           2172683
+ total num inj failed (PE buff full):     0
+ num of packets delivered after warmup:   2172600
+ avg latency per packet after warmup:     21.1729 [cycles]
+ Total power (not scaled):              0.1398 [W]
+time :                          4053.391766 4053391766.000000 1.000000e+06
+
+ ***************Frame : 22*****************
+
+ GET_NALU_PE_total_packet_injected:       32774
+ DECODE_HDR_PE_total_packet_injected:     32913
+ DECODE_MB_PE_total_packet_injected:      318166
+ INTRA_PRED_PE_total_packet_injected:     619344
+ INTER_PRED_PE_total_packet_injected:     619410
+ FRAME_BUFFER_PE_total_packet_injected:   619410
+ DISPLAY_PE_total_packet_injected:        27324
+ H264 total num of packets injected:      2269341
+-----------------------------------------------
+ actual injection rate:                   25.2149
+ total num of packets injected:           2269341
+ total num inj failed (PE buff full):     0
+ num of packets delivered after warmup:   2269258
+ avg latency per packet after warmup:     21.1847 [cycles]
+ Total power (not scaled):              0.1398 [W]
+time :                          4234.955480 4234955480.000000 1.000000e+06
+
+ ***************Frame : 23*****************
+
+ GET_NALU_PE_total_packet_injected:       34199
+ DECODE_HDR_PE_total_packet_injected:     34344
+ DECODE_MB_PE_total_packet_injected:      329785
+ INTRA_PRED_PE_total_packet_injected:     646272
+ INTER_PRED_PE_total_packet_injected:     646341
+ FRAME_BUFFER_PE_total_packet_injected:   646341
+ DISPLAY_PE_total_packet_injected:        28512
+ H264 total num of packets injected:      2365794
+-----------------------------------------------
+ actual injection rate:                   26.2866
+ total num of packets injected:           2365794
+ total num inj failed (PE buff full):     0
+ num of packets delivered after warmup:   2365711
+ avg latency per packet after warmup:     21.1958 [cycles]
+ Total power (not scaled):              0.1398 [W]
+time :                          4416.280480 4416280480.000000 1.000000e+06
+
+ ***************Frame : 24*****************
+
+ GET_NALU_PE_total_packet_injected:       35624
+ DECODE_HDR_PE_total_packet_injected:     35775
+ DECODE_MB_PE_total_packet_injected:      340928
+ INTRA_PRED_PE_total_packet_injected:     673200
+ INTER_PRED_PE_total_packet_injected:     673272
+ FRAME_BUFFER_PE_total_packet_injected:   673272
+ DISPLAY_PE_total_packet_injected:        29700
+ H264 total num of packets injected:      2461771
+-----------------------------------------------
+ actual injection rate:                   27.3530
+ total num of packets injected:           2461771
+ total num inj failed (PE buff full):     0
+ num of packets delivered after warmup:   2461688
+ avg latency per packet after warmup:     21.2058 [cycles]
+ Total power (not scaled):              0.1398 [W]
+time :                          4596.672824 4596672824.000000 1.000000e+06
+
+ ***************Frame : 25*****************
+
+ GET_NALU_PE_total_packet_injected:       37049
+ DECODE_HDR_PE_total_packet_injected:     37206
+ DECODE_MB_PE_total_packet_injected:      351731
+ INTRA_PRED_PE_total_packet_injected:     700128
+ INTER_PRED_PE_total_packet_injected:     700203
+ FRAME_BUFFER_PE_total_packet_injected:   700203
+ DISPLAY_PE_total_packet_injected:        30888
+ H264 total num of packets injected:      2557408
+-----------------------------------------------
+ actual injection rate:                   28.4156
+ total num of packets injected:           2557408
+ total num inj failed (PE buff full):     0
+ num of packets delivered after warmup:   2557325
+ avg latency per packet after warmup:     21.2150 [cycles]
+ Total power (not scaled):              0.1398 [W]
+time :                          4776.677948 4776677948.000000 1.000000e+06
+
+ ***************Frame : 26*****************
+
+ GET_NALU_PE_total_packet_injected:       38474
+ DECODE_HDR_PE_total_packet_injected:     38637
+ DECODE_MB_PE_total_packet_injected:      362467
+ INTRA_PRED_PE_total_packet_injected:     727056
+ INTER_PRED_PE_total_packet_injected:     727134
+ FRAME_BUFFER_PE_total_packet_injected:   727134
+ DISPLAY_PE_total_packet_injected:        32076
+ H264 total num of packets injected:      2652978
+-----------------------------------------------
+ actual injection rate:                   29.4775
+ total num of packets injected:           2652978
+ total num inj failed (PE buff full):     0
+ num of packets delivered after warmup:   2652895
+ avg latency per packet after warmup:     21.2233 [cycles]
+ Total power (not scaled):              0.1398 [W]
+time :                          4956.486708 4956486708.000000 1.000000e+06
+
+ ***************Frame : 27*****************
+
+ GET_NALU_PE_total_packet_injected:       39899
+ DECODE_HDR_PE_total_packet_injected:     40068
+ DECODE_MB_PE_total_packet_injected:      373746
+ INTRA_PRED_PE_total_packet_injected:     753984
+ INTER_PRED_PE_total_packet_injected:     754065
+ FRAME_BUFFER_PE_total_packet_injected:   754065
+ DISPLAY_PE_total_packet_injected:        33264
+ H264 total num of packets injected:      2749091
+-----------------------------------------------
+ actual injection rate:                   30.5455
+ total num of packets injected:           2749091
+ total num inj failed (PE buff full):     0
+ num of packets delivered after warmup:   2749008
+ avg latency per packet after warmup:     21.2314 [cycles]
+ Total power (not scaled):              0.1398 [W]
+time :                          5137.371318 5137371318.000000 1.000000e+06
+
+ ***************Frame : 28*****************
+
+ GET_NALU_PE_total_packet_injected:       41324
+ DECODE_HDR_PE_total_packet_injected:     41499
+ DECODE_MB_PE_total_packet_injected:      384209
+ INTRA_PRED_PE_total_packet_injected:     780912
+ INTER_PRED_PE_total_packet_injected:     780996
+ FRAME_BUFFER_PE_total_packet_injected:   780996
+ DISPLAY_PE_total_packet_injected:        34452
+ H264 total num of packets injected:      2844388
+-----------------------------------------------
+ actual injection rate:                   31.6043
+ total num of packets injected:           2844388
+ total num inj failed (PE buff full):     0
+ num of packets delivered after warmup:   2844305
+ avg latency per packet after warmup:     21.2387 [cycles]
+ Total power (not scaled):              0.1398 [W]
+time :                          5316.781502 5316781502.000000 1.000000e+06
+
+ ***************Frame : 29*****************
+
+ GET_NALU_PE_total_packet_injected:       42749
+ DECODE_HDR_PE_total_packet_injected:     42930
+ DECODE_MB_PE_total_packet_injected:      395692
+ INTRA_PRED_PE_total_packet_injected:     807840
+ INTER_PRED_PE_total_packet_injected:     807927
+ FRAME_BUFFER_PE_total_packet_injected:   807927
+ DISPLAY_PE_total_packet_injected:        35640
+ H264 total num of packets injected:      2940705
+-----------------------------------------------
+ actual injection rate:                   32.6745
+ total num of packets injected:           2940705
+ total num inj failed (PE buff full):     0
+ num of packets delivered after warmup:   2940622
+ avg latency per packet after warmup:     21.2458 [cycles]
+ Total power (not scaled):              0.1398 [W]
+time :                          5498.053950 5498053950.000000 1.000000e+06
+
+ ***************Frame : 30*****************
+
+ GET_NALU_PE_total_packet_injected:       44174
+ DECODE_HDR_PE_total_packet_injected:     44361
+ DECODE_MB_PE_total_packet_injected:      405951
+ INTRA_PRED_PE_total_packet_injected:     834768
+ INTER_PRED_PE_total_packet_injected:     834858
+ FRAME_BUFFER_PE_total_packet_injected:   834858
+ DISPLAY_PE_total_packet_injected:        36828
+ H264 total num of packets injected:      3035798
+-----------------------------------------------
+ actual injection rate:                   33.7311
+ total num of packets injected:           3035798
+ total num inj failed (PE buff full):     0
+ num of packets delivered after warmup:   3035715
+ avg latency per packet after warmup:     21.2521 [cycles]
+ Total power (not scaled):              0.1398 [W]
+time :                          5677.025853 5677025853.000000 1.000000e+06
+
+ ***************Frame : 31*****************
+
+ GET_NALU_PE_total_packet_injected:       45599
+ DECODE_HDR_PE_total_packet_injected:     45792
+ DECODE_MB_PE_total_packet_injected:      416686
+ INTRA_PRED_PE_total_packet_injected:     861696
+ INTER_PRED_PE_total_packet_injected:     861789
+ FRAME_BUFFER_PE_total_packet_injected:   861789
+ DISPLAY_PE_total_packet_injected:        38016
+ H264 total num of packets injected:      3131367
+-----------------------------------------------
+ actual injection rate:                   34.7930
+ total num of packets injected:           3131367
+ total num inj failed (PE buff full):     0
+ num of packets delivered after warmup:   3131284
+ avg latency per packet after warmup:     21.2582 [cycles]
+ Total power (not scaled):              0.1398 [W]
+time :                          5856.931180 5856931180.000000 1.000000e+06
+
+ ***************Frame : 32*****************
+
+ GET_NALU_PE_total_packet_injected:       47024
+ DECODE_HDR_PE_total_packet_injected:     47223
+ DECODE_MB_PE_total_packet_injected:      427353
+ INTRA_PRED_PE_total_packet_injected:     888624
+ INTER_PRED_PE_total_packet_injected:     888720
+ FRAME_BUFFER_PE_total_packet_injected:   888720
+ DISPLAY_PE_total_packet_injected:        39204
+ H264 total num of packets injected:      3226868
+-----------------------------------------------
+ actual injection rate:                   35.8541
+ total num of packets injected:           3226868
+ total num inj failed (PE buff full):     0
+ num of packets delivered after warmup:   3226785
+ avg latency per packet after warmup:     21.2639 [cycles]
+ Total power (not scaled):              0.1398 [W]
+time :                          6036.701691 6036701691.000000 1.000000e+06
+
+ ***************Frame : 33*****************
+
+ GET_NALU_PE_total_packet_injected:       48449
+ DECODE_HDR_PE_total_packet_injected:     48654
+ DECODE_MB_PE_total_packet_injected:      438292
+ INTRA_PRED_PE_total_packet_injected:     915552
+ INTER_PRED_PE_total_packet_injected:     915651
+ FRAME_BUFFER_PE_total_packet_injected:   915651
+ DISPLAY_PE_total_packet_injected:        40392
+ H264 total num of packets injected:      3322641
+-----------------------------------------------
+ actual injection rate:                   36.9182
+ total num of packets injected:           3322641
+ total num inj failed (PE buff full):     0
+ num of packets delivered after warmup:   3322558
+ avg latency per packet after warmup:     21.2693 [cycles]
+ Total power (not scaled):              0.1398 [W]
+time :                          6216.774977 6216774977.000000 1.000000e+06
+
+ ***************Frame : 34*****************
+
+ GET_NALU_PE_total_packet_injected:       49874
+ DECODE_HDR_PE_total_packet_injected:     50085
+ DECODE_MB_PE_total_packet_injected:      448755
+ INTRA_PRED_PE_total_packet_injected:     942480
+ INTER_PRED_PE_total_packet_injected:     942582
+ FRAME_BUFFER_PE_total_packet_injected:   942582
+ DISPLAY_PE_total_packet_injected:        41580
+ H264 total num of packets injected:      3417938
+-----------------------------------------------
+ actual injection rate:                   37.9771
+ total num of packets injected:           3417938
+ total num inj failed (PE buff full):     0
+ num of packets delivered after warmup:   3417855
+ avg latency per packet after warmup:     21.2744 [cycles]
+ Total power (not scaled):              0.1399 [W]
+time :                          6396.062341 6396062341.000000 1.000000e+06
+
+ ***************Frame : 35*****************
+
+ GET_NALU_PE_total_packet_injected:       51299
+ DECODE_HDR_PE_total_packet_injected:     51516
+ DECODE_MB_PE_total_packet_injected:      459082
+ INTRA_PRED_PE_total_packet_injected:     969408
+ INTER_PRED_PE_total_packet_injected:     969513
+ FRAME_BUFFER_PE_total_packet_injected:   969513
+ DISPLAY_PE_total_packet_injected:        42768
+ H264 total num of packets injected:      3513099
+-----------------------------------------------
+ actual injection rate:                   39.0344
+ total num of packets injected:           3513099
+ total num inj failed (PE buff full):     0
+ num of packets delivered after warmup:   3513016
+ avg latency per packet after warmup:     21.2791 [cycles]
+ Total power (not scaled):              0.1399 [W]
+time :                          6575.181191 6575181191.000000 1.000000e+06
+
+ ***************Frame : 36*****************
+
+ GET_NALU_PE_total_packet_injected:       52724
+ DECODE_HDR_PE_total_packet_injected:     52947
+ DECODE_MB_PE_total_packet_injected:      469750
+ INTRA_PRED_PE_total_packet_injected:     996336
+ INTER_PRED_PE_total_packet_injected:     996444
+ FRAME_BUFFER_PE_total_packet_injected:   996444
+ DISPLAY_PE_total_packet_injected:        43956
+ H264 total num of packets injected:      3608601
+-----------------------------------------------
+ actual injection rate:                   40.0956
+ total num of packets injected:           3608601
+ total num inj failed (PE buff full):     0
+ num of packets delivered after warmup:   3608518
+ avg latency per packet after warmup:     21.2834 [cycles]
+ Total power (not scaled):              0.1399 [W]
+time :                          6754.922763 6754922763.000000 1.000000e+06
+
+ ***************Frame : 37*****************
+
+ GET_NALU_PE_total_packet_injected:       54149
+ DECODE_HDR_PE_total_packet_injected:     54378
+ DECODE_MB_PE_total_packet_injected:      480485
+ INTRA_PRED_PE_total_packet_injected:     1023264
+ INTER_PRED_PE_total_packet_injected:     1023375
+ FRAME_BUFFER_PE_total_packet_injected:   1023375
+ DISPLAY_PE_total_packet_injected:        45144
+ H264 total num of packets injected:      3704170
+-----------------------------------------------
+ actual injection rate:                   41.1574
+ total num of packets injected:           3704170
+ total num inj failed (PE buff full):     0
+ num of packets delivered after warmup:   3704087
+ avg latency per packet after warmup:     21.2878 [cycles]
+ Total power (not scaled):              0.1399 [W]
+time :                          6934.791602 6934791602.000000 1.000000e+06
+
+ ***************Frame : 38*****************
+
+ GET_NALU_PE_total_packet_injected:       55574
+ DECODE_HDR_PE_total_packet_injected:     55809
+ DECODE_MB_PE_total_packet_injected:      491153
+ INTRA_PRED_PE_total_packet_injected:     1050192
+ INTER_PRED_PE_total_packet_injected:     1050306
+ FRAME_BUFFER_PE_total_packet_injected:   1050306
+ DISPLAY_PE_total_packet_injected:        46332
+ H264 total num of packets injected:      3799672
+-----------------------------------------------
+ actual injection rate:                   42.2186
+ total num of packets injected:           3799672
+ total num inj failed (PE buff full):     0
+ num of packets delivered after warmup:   3799589
+ avg latency per packet after warmup:     21.2917 [cycles]
+ Total power (not scaled):              0.1399 [W]
+time :                          7114.461078 7114461078.000000 1.000000e+06
+
+ ***************Frame : 39*****************
+
+ GET_NALU_PE_total_packet_injected:       56999
+ DECODE_HDR_PE_total_packet_injected:     57240
+ DECODE_MB_PE_total_packet_injected:      501549
+ INTRA_PRED_PE_total_packet_injected:     1077120
+ INTER_PRED_PE_total_packet_injected:     1077237
+ FRAME_BUFFER_PE_total_packet_injected:   1077237
+ DISPLAY_PE_total_packet_injected:        47520
+ H264 total num of packets injected:      3894902
+-----------------------------------------------
+ actual injection rate:                   43.2767
+ total num of packets injected:           3894902
+ total num inj failed (PE buff full):     0
+ num of packets delivered after warmup:   3894819
+ avg latency per packet after warmup:     21.2954 [cycles]
+ Total power (not scaled):              0.1399 [W]
+time :                          7293.774183 7293774183.000000 1.000000e+06
+
+ ***************Frame : 40*****************
+
+ GET_NALU_PE_total_packet_injected:       58424
+ DECODE_HDR_PE_total_packet_injected:     58671
+ DECODE_MB_PE_total_packet_injected:      513850
+ INTRA_PRED_PE_total_packet_injected:     1104048
+ INTER_PRED_PE_total_packet_injected:     1104168
+ FRAME_BUFFER_PE_total_packet_injected:   1104168
+ DISPLAY_PE_total_packet_injected:        48708
+ H264 total num of packets injected:      3992037
+-----------------------------------------------
+ actual injection rate:                   44.3560
+ total num of packets injected:           3992037
+ total num inj failed (PE buff full):     0
+ num of packets delivered after warmup:   3991954
+ avg latency per packet after warmup:     21.2990 [cycles]
+ Total power (not scaled):              0.1399 [W]
+time :                          7476.406635 7476406635.000000 1.000000e+06
+
+ ***************Frame : 41*****************
+
+ GET_NALU_PE_total_packet_injected:       59849
+ DECODE_HDR_PE_total_packet_injected:     60102
+ DECODE_MB_PE_total_packet_injected:      527457
+ INTRA_PRED_PE_total_packet_injected:     1130976
+ INTER_PRED_PE_total_packet_injected:     1131099
+ FRAME_BUFFER_PE_total_packet_injected:   1131099
+ DISPLAY_PE_total_packet_injected:        49896
+ H264 total num of packets injected:      4090478
+-----------------------------------------------
+ actual injection rate:                   45.4498
+ total num of packets injected:           4090478
+ total num inj failed (PE buff full):     0
+ num of packets delivered after warmup:   4090395
+ avg latency per packet after warmup:     21.3002 [cycles]
+ Total power (not scaled):              0.1399 [W]
+time :                          7661.161053 7661161053.000000 1.000000e+06
+
+ ***************Frame : 42*****************
+
+ GET_NALU_PE_total_packet_injected:       61274
+ DECODE_HDR_PE_total_packet_injected:     61533
+ DECODE_MB_PE_total_packet_injected:      540847
+ INTRA_PRED_PE_total_packet_injected:     1157904
+ INTER_PRED_PE_total_packet_injected:     1158030
+ FRAME_BUFFER_PE_total_packet_injected:   1158030
+ DISPLAY_PE_total_packet_injected:        51084
+ H264 total num of packets injected:      4188702
+-----------------------------------------------
+ actual injection rate:                   46.5411
+ total num of packets injected:           4188702
+ total num inj failed (PE buff full):     0
+ num of packets delivered after warmup:   4188619
+ avg latency per packet after warmup:     21.3036 [cycles]
+ Total power (not scaled):              0.1399 [W]
+time :                          7845.779002 7845779002.000000 1.000000e+06
+
+ ***************Frame : 43*****************
+
+ GET_NALU_PE_total_packet_injected:       62699
+ DECODE_HDR_PE_total_packet_injected:     62964
+ DECODE_MB_PE_total_packet_injected:      552399
+ INTRA_PRED_PE_total_packet_injected:     1184832
+ INTER_PRED_PE_total_packet_injected:     1184961
+ FRAME_BUFFER_PE_total_packet_injected:   1184961
+ DISPLAY_PE_total_packet_injected:        52272
+ H264 total num of packets injected:      4285088
+-----------------------------------------------
+ actual injection rate:                   47.6121
+ total num of packets injected:           4285088
+ total num inj failed (PE buff full):     0
+ num of packets delivered after warmup:   4285005
+ avg latency per packet after warmup:     21.3068 [cycles]
+ Total power (not scaled):              0.1399 [W]
+time :                          8027.082501 8027082501.000000 1.000000e+06
+
+ ***************Frame : 44*****************
+
+ GET_NALU_PE_total_packet_injected:       64124
+ DECODE_HDR_PE_total_packet_injected:     64395
+ DECODE_MB_PE_total_packet_injected:      565453
+ INTRA_PRED_PE_total_packet_injected:     1211760
+ INTER_PRED_PE_total_packet_injected:     1211892
+ FRAME_BUFFER_PE_total_packet_injected:   1211892
+ DISPLAY_PE_total_packet_injected:        53460
+ H264 total num of packets injected:      4382976
+-----------------------------------------------
+ actual injection rate:                   48.6997
+ total num of packets injected:           4382976
+ total num inj failed (PE buff full):     0
+ num of packets delivered after warmup:   4382893
+ avg latency per packet after warmup:     21.3092 [cycles]
+ Total power (not scaled):              0.1399 [W]
+time :                          8211.119358 8211119358.000000 1.000000e+06
+
+ ***************Frame : 45*****************
+
+ GET_NALU_PE_total_packet_injected:       65549
+ DECODE_HDR_PE_total_packet_injected:     65826
+ DECODE_MB_PE_total_packet_injected:      579263
+ INTRA_PRED_PE_total_packet_injected:     1238688
+ INTER_PRED_PE_total_packet_injected:     1238823
+ FRAME_BUFFER_PE_total_packet_injected:   1238823
+ DISPLAY_PE_total_packet_injected:        54648
+ H264 total num of packets injected:      4481620
+-----------------------------------------------
+ actual injection rate:                   49.7958
+ total num of packets injected:           4481620
+ total num inj failed (PE buff full):     0
+ num of packets delivered after warmup:   4481537
+ avg latency per packet after warmup:     21.3102 [cycles]
+ Total power (not scaled):              0.1399 [W]
+time :                          8396.267159 8396267159.000000 1.000000e+06
+
+ ***************Frame : 46*****************
+
+ GET_NALU_PE_total_packet_injected:       66974
+ DECODE_HDR_PE_total_packet_injected:     67257
+ DECODE_MB_PE_total_packet_injected:      593489
+ INTRA_PRED_PE_total_packet_injected:     1265616
+ INTER_PRED_PE_total_packet_injected:     1265754
+ FRAME_BUFFER_PE_total_packet_injected:   1265754
+ DISPLAY_PE_total_packet_injected:        55836
+ H264 total num of packets injected:      4580680
+-----------------------------------------------
+ actual injection rate:                   50.8964
+ total num of packets injected:           4580680
+ total num inj failed (PE buff full):     0
+ num of packets delivered after warmup:   4580597
+ avg latency per packet after warmup:     21.3100 [cycles]
+ Total power (not scaled):              0.1399 [W]
+time :                          8581.802869 8581802869.000000 1.000000e+06
+
+ ***************Frame : 47*****************
+
+ GET_NALU_PE_total_packet_injected:       68399
+ DECODE_HDR_PE_total_packet_injected:     68688
+ DECODE_MB_PE_total_packet_injected:      607636
+ INTRA_PRED_PE_total_packet_injected:     1292544
+ INTER_PRED_PE_total_packet_injected:     1292685
+ FRAME_BUFFER_PE_total_packet_injected:   1292685
+ DISPLAY_PE_total_packet_injected:        57024
+ H264 total num of packets injected:      4679661
+-----------------------------------------------
+ actual injection rate:                   51.9962
+ total num of packets injected:           4679661
+ total num inj failed (PE buff full):     0
+ num of packets delivered after warmup:   4679578
+ avg latency per packet after warmup:     21.3116 [cycles]
+ Total power (not scaled):              0.1399 [W]
+time :                          8767.566511 8767566511.000000 1.000000e+06
+
+ ***************Frame : 48*****************
+
+ GET_NALU_PE_total_packet_injected:       69824
+ DECODE_HDR_PE_total_packet_injected:     70119
+ DECODE_MB_PE_total_packet_injected:      622182
+ INTRA_PRED_PE_total_packet_injected:     1319472
+ INTER_PRED_PE_total_packet_injected:     1319616
+ FRAME_BUFFER_PE_total_packet_injected:   1319616
+ DISPLAY_PE_total_packet_injected:        58212
+ H264 total num of packets injected:      4779041
+-----------------------------------------------
+ actual injection rate:                   53.1005
+ total num of packets injected:           4779041
+ total num inj failed (PE buff full):     0
+ num of packets delivered after warmup:   4778958
+ avg latency per packet after warmup:     21.3145 [cycles]
+ Total power (not scaled):              0.1399 [W]
+time :                          8954.414747 8954414747.000000 1.000000e+06
+
+ ***************Frame : 49*****************
+
+ GET_NALU_PE_total_packet_injected:       71249
+ DECODE_HDR_PE_total_packet_injected:     71550
+ DECODE_MB_PE_total_packet_injected:      636116
+ INTRA_PRED_PE_total_packet_injected:     1346400
+ INTER_PRED_PE_total_packet_injected:     1346547
+ FRAME_BUFFER_PE_total_packet_injected:   1346547
+ DISPLAY_PE_total_packet_injected:        59400
+ H264 total num of packets injected:      4877809
+-----------------------------------------------
+ actual injection rate:                   54.1979
+ total num of packets injected:           4877809
+ total num inj failed (PE buff full):     0
+ num of packets delivered after warmup:   4877726
+ avg latency per packet after warmup:     21.3171 [cycles]
+ Total power (not scaled):              0.1399 [W]
+time :                          9139.990613 9139990613.000000 1.000000e+06
+
+ ***************Frame : 50*****************
+
+ GET_NALU_PE_total_packet_injected:       72674
+ DECODE_HDR_PE_total_packet_injected:     72981
+ DECODE_MB_PE_total_packet_injected:      651205
+ INTRA_PRED_PE_total_packet_injected:     1373328
+ INTER_PRED_PE_total_packet_injected:     1373478
+ FRAME_BUFFER_PE_total_packet_injected:   1373478
+ DISPLAY_PE_total_packet_injected:        60588
+ H264 total num of packets injected:      4977732
+-----------------------------------------------
+ actual injection rate:                   55.3081
+ total num of packets injected:           4977732
+ total num inj failed (PE buff full):     0
+ num of packets delivered after warmup:   4977649
+ avg latency per packet after warmup:     21.3200 [cycles]
+ Total power (not scaled):              0.1399 [W]
+time :                          9327.840333 9327840333.000000 1.000000e+06
+
+ ***************Frame : 51*****************
+
+ GET_NALU_PE_total_packet_injected:       74099
+ DECODE_HDR_PE_total_packet_injected:     74412
+ DECODE_MB_PE_total_packet_injected:      665410
+ INTRA_PRED_PE_total_packet_injected:     1400256
+ INTER_PRED_PE_total_packet_injected:     1400409
+ FRAME_BUFFER_PE_total_packet_injected:   1400409
+ DISPLAY_PE_total_packet_injected:        61776
+ H264 total num of packets injected:      5076771
+-----------------------------------------------
+ actual injection rate:                   56.4086
+ total num of packets injected:           5076771
+ total num inj failed (PE buff full):     0
+ num of packets delivered after warmup:   5076688
+ avg latency per packet after warmup:     21.3227 [cycles]
+ Total power (not scaled):              0.1399 [W]
+time :                          9514.058865 9514058865.000000 1.000000e+06
+
+ ***************Frame : 52*****************
+
+ GET_NALU_PE_total_packet_injected:       75524
+ DECODE_HDR_PE_total_packet_injected:     75843
+ DECODE_MB_PE_total_packet_injected:      678323
+ INTRA_PRED_PE_total_packet_injected:     1427184
+ INTER_PRED_PE_total_packet_injected:     1427340
+ FRAME_BUFFER_PE_total_packet_injected:   1427340
+ DISPLAY_PE_total_packet_injected:        62964
+ H264 total num of packets injected:      5174518
+-----------------------------------------------
+ actual injection rate:                   57.4946
+ total num of packets injected:           5174518
+ total num inj failed (PE buff full):     0
+ num of packets delivered after warmup:   5174435
+ avg latency per packet after warmup:     21.3250 [cycles]
+ Total power (not scaled):              0.1399 [W]
+time :                          9697.919530 9697919530.000000 1.000000e+06
+
+ ***************Frame : 53*****************
+
+ GET_NALU_PE_total_packet_injected:       76949
+ DECODE_HDR_PE_total_packet_injected:     77274
+ DECODE_MB_PE_total_packet_injected:      691370
+ INTRA_PRED_PE_total_packet_injected:     1454112
+ INTER_PRED_PE_total_packet_injected:     1454271
+ FRAME_BUFFER_PE_total_packet_injected:   1454271
+ DISPLAY_PE_total_packet_injected:        64152
+ H264 total num of packets injected:      5272399
+-----------------------------------------------
+ actual injection rate:                   58.5822
+ total num of packets injected:           5272399
+ total num inj failed (PE buff full):     0
+ num of packets delivered after warmup:   5272316
+ avg latency per packet after warmup:     21.3276 [cycles]
+ Total power (not scaled):              0.1399 [W]
+time :                          9882.109210 9882109210.000000 1.000000e+06
+
+ ***************Frame : 54*****************
+
+ GET_NALU_PE_total_packet_injected:       78374
+ DECODE_HDR_PE_total_packet_injected:     78705
+ DECODE_MB_PE_total_packet_injected:      705233
+ INTRA_PRED_PE_total_packet_injected:     1481040
+ INTER_PRED_PE_total_packet_injected:     1481202
+ FRAME_BUFFER_PE_total_packet_injected:   1481202
+ DISPLAY_PE_total_packet_injected:        65340
+ H264 total num of packets injected:      5371096
+-----------------------------------------------
+ actual injection rate:                   59.6788
+ total num of packets injected:           5371096
+ total num inj failed (PE buff full):     0
+ num of packets delivered after warmup:   5371013
+ avg latency per packet after warmup:     21.3302 [cycles]
+ Total power (not scaled):              0.1399 [W]
+time :                          10067.720559 10067720559.000000 1.000000e+06
+
+ ***************Frame : 55*****************
+
+ GET_NALU_PE_total_packet_injected:       79799
+ DECODE_HDR_PE_total_packet_injected:     80136
+ DECODE_MB_PE_total_packet_injected:      719644
+ INTRA_PRED_PE_total_packet_injected:     1507968
+ INTER_PRED_PE_total_packet_injected:     1508133
+ FRAME_BUFFER_PE_total_packet_injected:   1508133
+ DISPLAY_PE_total_packet_injected:        66528
+ H264 total num of packets injected:      5470341
+-----------------------------------------------
+ actual injection rate:                   60.7816
+ total num of packets injected:           5470341
+ total num inj failed (PE buff full):     0
+ num of packets delivered after warmup:   5470258
+ avg latency per packet after warmup:     21.3322 [cycles]
+ Total power (not scaled):              0.1400 [W]
+time :                          10254.235996 10254235996.000000 1.000000e+06
+
+ ***************Frame : 56*****************
+
+ GET_NALU_PE_total_packet_injected:       81224
+ DECODE_HDR_PE_total_packet_injected:     81567
+ DECODE_MB_PE_total_packet_injected:      734459
+ INTRA_PRED_PE_total_packet_injected:     1534896
+ INTER_PRED_PE_total_packet_injected:     1535064
+ FRAME_BUFFER_PE_total_packet_injected:   1535064
+ DISPLAY_PE_total_packet_injected:        67716
+ H264 total num of packets injected:      5569990
+-----------------------------------------------
+ actual injection rate:                   61.8888
+ total num of packets injected:           5569990
+ total num inj failed (PE buff full):     0
+ num of packets delivered after warmup:   5569907
+ avg latency per packet after warmup:     21.3348 [cycles]
+ Total power (not scaled):              0.1400 [W]
+time :                          10441.535914 10441535914.000000 1.000000e+06
+
+ ***************Frame : 57*****************
+
+ GET_NALU_PE_total_packet_injected:       82649
+ DECODE_HDR_PE_total_packet_injected:     82998
+ DECODE_MB_PE_total_packet_injected:      750836
+ INTRA_PRED_PE_total_packet_injected:     1561824
+ INTER_PRED_PE_total_packet_injected:     1561995
+ FRAME_BUFFER_PE_total_packet_injected:   1561995
+ DISPLAY_PE_total_packet_injected:        68904
+ H264 total num of packets injected:      5671201
+-----------------------------------------------
+ actual injection rate:                   63.0133
+ total num of packets injected:           5671201
+ total num inj failed (PE buff full):     0
+ num of packets delivered after warmup:   5671118
+ avg latency per packet after warmup:     21.3289 [cycles]
+ Total power (not scaled):              0.1400 [W]
+time :                          10629.909592 10629909592.000000 1.000000e+06
+
+ ***************Frame : 58*****************
+
+ GET_NALU_PE_total_packet_injected:       84074
+ DECODE_HDR_PE_total_packet_injected:     84429
+ DECODE_MB_PE_total_packet_injected:      768113
+ INTRA_PRED_PE_total_packet_injected:     1588752
+ INTER_PRED_PE_total_packet_injected:     1588926
+ FRAME_BUFFER_PE_total_packet_injected:   1588926
+ DISPLAY_PE_total_packet_injected:        70092
+ H264 total num of packets injected:      5773312
+-----------------------------------------------
+ actual injection rate:                   64.1479
+ total num of packets injected:           5773312
+ total num inj failed (PE buff full):     0
+ num of packets delivered after warmup:   5773229
+ avg latency per packet after warmup:     21.3214 [cycles]
+ Total power (not scaled):              0.1399 [W]
+time :                          10819.285736 10819285736.000000 1.000000e+06
+
+ ***************Frame : 59*****************
+
+ GET_NALU_PE_total_packet_injected:       85499
+ DECODE_HDR_PE_total_packet_injected:     85860
+ DECODE_MB_PE_total_packet_injected:      783118
+ INTRA_PRED_PE_total_packet_injected:     1615680
+ INTER_PRED_PE_total_packet_injected:     1615857
+ FRAME_BUFFER_PE_total_packet_injected:   1615857
+ DISPLAY_PE_total_packet_injected:        71280
+ H264 total num of packets injected:      5873151
+-----------------------------------------------
+ actual injection rate:                   65.2572
+ total num of packets injected:           5873151
+ total num inj failed (PE buff full):     0
+ num of packets delivered after warmup:   5873068
+ avg latency per packet after warmup:     21.3173 [cycles]
+ Total power (not scaled):              0.1399 [W]
+time :                          11005.291134 11005291134.000000 1.000000e+06
+
+ ***************Frame : 60*****************
+
+ GET_NALU_PE_total_packet_injected:       86924
+ DECODE_HDR_PE_total_packet_injected:     87291
+ DECODE_MB_PE_total_packet_injected:      796247
+ INTRA_PRED_PE_total_packet_injected:     1642608
+ INTER_PRED_PE_total_packet_injected:     1642788
+ FRAME_BUFFER_PE_total_packet_injected:   1642788
+ DISPLAY_PE_total_packet_injected:        72468
+ H264 total num of packets injected:      5971114
+-----------------------------------------------
+ actual injection rate:                   66.3457
+ total num of packets injected:           5971114
+ total num inj failed (PE buff full):     0
+ num of packets delivered after warmup:   5971031
+ avg latency per packet after warmup:     21.3180 [cycles]
+ Total power (not scaled):              0.1399 [W]
+time :                          11189.083360 11189083360.000000 1.000000e+06
+
+ ***************Frame : 61*****************
+
+ GET_NALU_PE_total_packet_injected:       88349
+ DECODE_HDR_PE_total_packet_injected:     88722
+ DECODE_MB_PE_total_packet_injected:      806779
+ INTRA_PRED_PE_total_packet_injected:     1669536
+ INTER_PRED_PE_total_packet_injected:     1669719
+ FRAME_BUFFER_PE_total_packet_injected:   1669719
+ DISPLAY_PE_total_packet_injected:        73656
+ H264 total num of packets injected:      6066480
+-----------------------------------------------
+ actual injection rate:                   67.4053
+ total num of packets injected:           6066480
+ total num inj failed (PE buff full):     0
+ num of packets delivered after warmup:   6066397
+ avg latency per packet after warmup:     21.3199 [cycles]
+ Total power (not scaled):              0.1399 [W]
+time :                          11368.484513 11368484513.000000 1.000000e+06
+
+ ***************Frame : 62*****************
+
+ GET_NALU_PE_total_packet_injected:       89774
+ DECODE_HDR_PE_total_packet_injected:     90153
+ DECODE_MB_PE_total_packet_injected:      817922
+ INTRA_PRED_PE_total_packet_injected:     1696464
+ INTER_PRED_PE_total_packet_injected:     1696650
+ FRAME_BUFFER_PE_total_packet_injected:   1696650
+ DISPLAY_PE_total_packet_injected:        74844
+ H264 total num of packets injected:      6162457
+-----------------------------------------------
+ actual injection rate:                   68.4717
+ total num of packets injected:           6162457
+ total num inj failed (PE buff full):     0
+ num of packets delivered after warmup:   6162374
+ avg latency per packet after warmup:     21.3220 [cycles]
+ Total power (not scaled):              0.1399 [W]
+time :                          11549.074287 11549074287.000000 1.000000e+06
+
+ ***************Frame : 63*****************
+
+ GET_NALU_PE_total_packet_injected:       91199
+ DECODE_HDR_PE_total_packet_injected:     91584
+ DECODE_MB_PE_total_packet_injected:      828658
+ INTRA_PRED_PE_total_packet_injected:     1723392
+ INTER_PRED_PE_total_packet_injected:     1723581
+ FRAME_BUFFER_PE_total_packet_injected:   1723581
+ DISPLAY_PE_total_packet_injected:        76032
+ H264 total num of packets injected:      6258027
+-----------------------------------------------
+ actual injection rate:                   69.5336
+ total num of packets injected:           6258027
+ total num inj failed (PE buff full):     0
+ num of packets delivered after warmup:   6257944
+ avg latency per packet after warmup:     21.3239 [cycles]
+ Total power (not scaled):              0.1399 [W]
+time :                          11728.806720 11728806720.000000 1.000000e+06
+
+ ***************Frame : 64*****************
+
+ GET_NALU_PE_total_packet_injected:       92624
+ DECODE_HDR_PE_total_packet_injected:     93015
+ DECODE_MB_PE_total_packet_injected:      839189
+ INTRA_PRED_PE_total_packet_injected:     1750320
+ INTER_PRED_PE_total_packet_injected:     1750512
+ FRAME_BUFFER_PE_total_packet_injected:   1750512
+ DISPLAY_PE_total_packet_injected:        77220
+ H264 total num of packets injected:      6353392
+-----------------------------------------------
+ actual injection rate:                   70.5932
+ total num of packets injected:           6353392
+ total num inj failed (PE buff full):     0
+ num of packets delivered after warmup:   6353309
+ avg latency per packet after warmup:     21.3258 [cycles]
+ Total power (not scaled):              0.1399 [W]
+time :                          11908.333137 11908333137.000000 1.000000e+06
+
+ ***************Frame : 65*****************
+
+ GET_NALU_PE_total_packet_injected:       94049
+ DECODE_HDR_PE_total_packet_injected:     94446
+ DECODE_MB_PE_total_packet_injected:      849040
+ INTRA_PRED_PE_total_packet_injected:     1777248
+ INTER_PRED_PE_total_packet_injected:     1777443
+ FRAME_BUFFER_PE_total_packet_injected:   1777443
+ DISPLAY_PE_total_packet_injected:        78408
+ H264 total num of packets injected:      6448077
+-----------------------------------------------
+ actual injection rate:                   71.6453
+ total num of packets injected:           6448077
+ total num inj failed (PE buff full):     0
+ num of packets delivered after warmup:   6447994
+ avg latency per packet after warmup:     21.3275 [cycles]
+ Total power (not scaled):              0.1399 [W]
+time :                          12086.593699 12086593699.000000 1.000000e+06
+
+ ***************Frame : 66*****************
+
+ GET_NALU_PE_total_packet_injected:       95474
+ DECODE_HDR_PE_total_packet_injected:     95877
+ DECODE_MB_PE_total_packet_injected:      858755
+ INTRA_PRED_PE_total_packet_injected:     1804176
+ INTER_PRED_PE_total_packet_injected:     1804374
+ FRAME_BUFFER_PE_total_packet_injected:   1804374
+ DISPLAY_PE_total_packet_injected:        79596
+ H264 total num of packets injected:      6542626
+-----------------------------------------------
+ actual injection rate:                   72.6958
+ total num of packets injected:           6542626
+ total num inj failed (PE buff full):     0
+ num of packets delivered after warmup:   6542543
+ avg latency per packet after warmup:     21.3292 [cycles]
+ Total power (not scaled):              0.1399 [W]
+time :                          12264.554398 12264554398.000000 1.000000e+06
+
+ ***************Frame : 67*****************
+
+ GET_NALU_PE_total_packet_injected:       96899
+ DECODE_HDR_PE_total_packet_injected:     97308
+ DECODE_MB_PE_total_packet_injected:      868879
+ INTRA_PRED_PE_total_packet_injected:     1831104
+ INTER_PRED_PE_total_packet_injected:     1831305
+ FRAME_BUFFER_PE_total_packet_injected:   1831305
+ DISPLAY_PE_total_packet_injected:        80784
+ H264 total num of packets injected:      6637584
+-----------------------------------------------
+ actual injection rate:                   73.7509
+ total num of packets injected:           6637584
+ total num inj failed (PE buff full):     0
+ num of packets delivered after warmup:   6637501
+ avg latency per packet after warmup:     21.3308 [cycles]
+ Total power (not scaled):              0.1399 [W]
+time :                          12443.255846 12443255846.000000 1.000000e+06
+
+ ***************Frame : 68*****************
+
+ GET_NALU_PE_total_packet_injected:       98324
+ DECODE_HDR_PE_total_packet_injected:     98739
+ DECODE_MB_PE_total_packet_injected:      879070
+ INTRA_PRED_PE_total_packet_injected:     1858032
+ INTER_PRED_PE_total_packet_injected:     1858236
+ FRAME_BUFFER_PE_total_packet_injected:   1858236
+ DISPLAY_PE_total_packet_injected:        81972
+ H264 total num of packets injected:      6732609
+-----------------------------------------------
+ actual injection rate:                   74.8068
+ total num of packets injected:           6732609
+ total num inj failed (PE buff full):     0
+ num of packets delivered after warmup:   6732526
+ avg latency per packet after warmup:     21.3325 [cycles]
+ Total power (not scaled):              0.1400 [W]
+time :                          12622.027969 12622027969.000000 1.000000e+06
+
+ ***************Frame : 69*****************
+
+ GET_NALU_PE_total_packet_injected:       99749
+ DECODE_HDR_PE_total_packet_injected:     100170
+ DECODE_MB_PE_total_packet_injected:      889400
+ INTRA_PRED_PE_total_packet_injected:     1884960
+ INTER_PRED_PE_total_packet_injected:     1885167
+ FRAME_BUFFER_PE_total_packet_injected:   1885167
+ DISPLAY_PE_total_packet_injected:        83160
+ H264 total num of packets injected:      6827773
+-----------------------------------------------
+ actual injection rate:                   75.8641
+ total num of packets injected:           6827773
+ total num inj failed (PE buff full):     0
+ num of packets delivered after warmup:   6827690
+ avg latency per packet after warmup:     21.3338 [cycles]
+ Total power (not scaled):              0.1400 [W]
+time :                          12800.911443 12800911443.000000 1.000000e+06
+
+ ***************Frame : 70*****************
+
+ GET_NALU_PE_total_packet_injected:       101174
+ DECODE_HDR_PE_total_packet_injected:     101601
+ DECODE_MB_PE_total_packet_injected:      899999
+ INTRA_PRED_PE_total_packet_injected:     1911888
+ INTER_PRED_PE_total_packet_injected:     1912098
+ FRAME_BUFFER_PE_total_packet_injected:   1912098
+ DISPLAY_PE_total_packet_injected:        84348
+ H264 total num of packets injected:      6923206
+-----------------------------------------------
+ actual injection rate:                   76.9245
+ total num of packets injected:           6923206
+ total num inj failed (PE buff full):     0
+ num of packets delivered after warmup:   6923123
+ avg latency per packet after warmup:     21.3354 [cycles]
+ Total power (not scaled):              0.1400 [W]
+time :                          12980.547137 12980547137.000000 1.000000e+06
+
+ ***************Frame : 71*****************
+
+ GET_NALU_PE_total_packet_injected:       102599
+ DECODE_HDR_PE_total_packet_injected:     103032
+ DECODE_MB_PE_total_packet_injected:      910462
+ INTRA_PRED_PE_total_packet_injected:     1938816
+ INTER_PRED_PE_total_packet_injected:     1939029
+ FRAME_BUFFER_PE_total_packet_injected:   1939029
+ DISPLAY_PE_total_packet_injected:        85536
+ H264 total num of packets injected:      7018503
+-----------------------------------------------
+ actual injection rate:                   77.9834
+ total num of packets injected:           7018503
+ total num inj failed (PE buff full):     0
+ num of packets delivered after warmup:   7018420
+ avg latency per packet after warmup:     21.3369 [cycles]
+ Total power (not scaled):              0.1400 [W]
+time :                          13159.881831 13159881831.000000 1.000000e+06
+
+ ***************Frame : 72*****************
+
+ GET_NALU_PE_total_packet_injected:       104024
+ DECODE_HDR_PE_total_packet_injected:     104463
+ DECODE_MB_PE_total_packet_injected:      920722
+ INTRA_PRED_PE_total_packet_injected:     1965744
+ INTER_PRED_PE_total_packet_injected:     1965960
+ FRAME_BUFFER_PE_total_packet_injected:   1965960
+ DISPLAY_PE_total_packet_injected:        86724
+ H264 total num of packets injected:      7113597
+-----------------------------------------------
+ actual injection rate:                   79.0400
+ total num of packets injected:           7113597
+ total num inj failed (PE buff full):     0
+ num of packets delivered after warmup:   7113514
+ avg latency per packet after warmup:     21.3383 [cycles]
+ Total power (not scaled):              0.1400 [W]
+time :                          13338.727385 13338727385.000000 1.000000e+06
+
+ ***************Frame : 73*****************
+
+ GET_NALU_PE_total_packet_injected:       105449
+ DECODE_HDR_PE_total_packet_injected:     105894
+ DECODE_MB_PE_total_packet_injected:      930642
+ INTRA_PRED_PE_total_packet_injected:     1992672
+ INTER_PRED_PE_total_packet_injected:     1992891
+ FRAME_BUFFER_PE_total_packet_injected:   1992891
+ DISPLAY_PE_total_packet_injected:        87912
+ H264 total num of packets injected:      7208351
+-----------------------------------------------
+ actual injection rate:                   80.0928
+ total num of packets injected:           7208351
+ total num inj failed (PE buff full):     0
+ num of packets delivered after warmup:   7208268
+ avg latency per packet after warmup:     21.3396 [cycles]
+ Total power (not scaled):              0.1400 [W]
+time :                          13517.024032 13517024032.000000 1.000000e+06
+
+ ***************Frame : 74*****************
+
+ GET_NALU_PE_total_packet_injected:       106874
+ DECODE_HDR_PE_total_packet_injected:     107325
+ DECODE_MB_PE_total_packet_injected:      940901
+ INTRA_PRED_PE_total_packet_injected:     2019600
+ INTER_PRED_PE_total_packet_injected:     2019822
+ FRAME_BUFFER_PE_total_packet_injected:   2019822
+ DISPLAY_PE_total_packet_injected:        89100
+ H264 total num of packets injected:      7303444
+-----------------------------------------------
+ actual injection rate:                   81.1494
+ total num of packets injected:           7303444
+ total num inj failed (PE buff full):     0
+ num of packets delivered after warmup:   7303361
+ avg latency per packet after warmup:     21.3411 [cycles]
+ Total power (not scaled):              0.1400 [W]
+time :                          13696.006481 13696006481.000000 1.000000e+06
+
+ ***************Frame : 75*****************
+
+ GET_NALU_PE_total_packet_injected:       108299
+ DECODE_HDR_PE_total_packet_injected:     108756
+ DECODE_MB_PE_total_packet_injected:      950888
+ INTRA_PRED_PE_total_packet_injected:     2046528
+ INTER_PRED_PE_total_packet_injected:     2046753
+ FRAME_BUFFER_PE_total_packet_injected:   2046753
+ DISPLAY_PE_total_packet_injected:        90288
+ H264 total num of packets injected:      7398265
+-----------------------------------------------
+ actual injection rate:                   82.2029
+ total num of packets injected:           7398265
+ total num inj failed (PE buff full):     0
+ num of packets delivered after warmup:   7398182
+ avg latency per packet after warmup:     21.3424 [cycles]
+ Total power (not scaled):              0.1400 [W]
+time :                          13874.447697 13874447697.000000 1.000000e+06
+
+ ***************Frame : 76*****************
+
+ GET_NALU_PE_total_packet_injected:       109724
+ DECODE_HDR_PE_total_packet_injected:     110187
+ DECODE_MB_PE_total_packet_injected:      960943
+ INTRA_PRED_PE_total_packet_injected:     2073456
+ INTER_PRED_PE_total_packet_injected:     2073684
+ FRAME_BUFFER_PE_total_packet_injected:   2073684
+ DISPLAY_PE_total_packet_injected:        91476
+ H264 total num of packets injected:      7493154
+-----------------------------------------------
+ actual injection rate:                   83.2573
+ total num of packets injected:           7493154
+ total num inj failed (PE buff full):     0
+ num of packets delivered after warmup:   7493071
+ avg latency per packet after warmup:     21.3438 [cycles]
+ Total power (not scaled):              0.1400 [W]
+time :                          14052.955630 14052955630.000000 1.000000e+06
+
+ ***************Frame : 77*****************
+
+ GET_NALU_PE_total_packet_injected:       111149
+ DECODE_HDR_PE_total_packet_injected:     111618
+ DECODE_MB_PE_total_packet_injected:      971067
+ INTRA_PRED_PE_total_packet_injected:     2100384
+ INTER_PRED_PE_total_packet_injected:     2100615
+ FRAME_BUFFER_PE_total_packet_injected:   2100615
+ DISPLAY_PE_total_packet_injected:        92664
+ H264 total num of packets injected:      7588112
+-----------------------------------------------
+ actual injection rate:                   84.3124
+ total num of packets injected:           7588112
+ total num inj failed (PE buff full):     0
+ num of packets delivered after warmup:   7588029
+ avg latency per packet after warmup:     21.3450 [cycles]
+ Total power (not scaled):              0.1400 [W]
+time :                          14231.838471 14231838471.000000 1.000000e+06
+
+ ***************Frame : 78*****************
+
+ GET_NALU_PE_total_packet_injected:       112574
+ DECODE_HDR_PE_total_packet_injected:     113049
+ DECODE_MB_PE_total_packet_injected:      980239
+ INTRA_PRED_PE_total_packet_injected:     2127312
+ INTER_PRED_PE_total_packet_injected:     2127546
+ FRAME_BUFFER_PE_total_packet_injected:   2127546
+ DISPLAY_PE_total_packet_injected:        93852
+ H264 total num of packets injected:      7682118
+-----------------------------------------------
+ actual injection rate:                   85.3569
+ total num of packets injected:           7682118
+ total num inj failed (PE buff full):     0
+ num of packets delivered after warmup:   7682035
+ avg latency per packet after warmup:     21.3461 [cycles]
+ Total power (not scaled):              0.1400 [W]
+time :                          14408.865675 14408865675.000000 1.000000e+06
+
+ ***************Frame : 79*****************
+
+ GET_NALU_PE_total_packet_injected:       113999
+ DECODE_HDR_PE_total_packet_injected:     114480
+ DECODE_MB_PE_total_packet_injected:      989886
+ INTRA_PRED_PE_total_packet_injected:     2154240
+ INTER_PRED_PE_total_packet_injected:     2154477
+ FRAME_BUFFER_PE_total_packet_injected:   2154477
+ DISPLAY_PE_total_packet_injected:        95040
+ H264 total num of packets injected:      7776599
+-----------------------------------------------
+ actual injection rate:                   86.4067
+ total num of packets injected:           7776599
+ total num inj failed (PE buff full):     0
+ num of packets delivered after warmup:   7776516
+ avg latency per packet after warmup:     21.3473 [cycles]
+ Total power (not scaled):              0.1400 [W]
+time :                          14586.746900 14586746900.000000 1.000000e+06
+
+ ***************Frame : 80*****************
+
+ GET_NALU_PE_total_packet_injected:       115424
+ DECODE_HDR_PE_total_packet_injected:     115911
+ DECODE_MB_PE_total_packet_injected:      1000010
+ INTRA_PRED_PE_total_packet_injected:     2181168
+ INTER_PRED_PE_total_packet_injected:     2181408
+ FRAME_BUFFER_PE_total_packet_injected:   2181408
+ DISPLAY_PE_total_packet_injected:        96228
+ H264 total num of packets injected:      7871557
+-----------------------------------------------
+ actual injection rate:                   87.4617
+ total num of packets injected:           7871557
+ total num inj failed (PE buff full):     0
+ num of packets delivered after warmup:   7871474
+ avg latency per packet after warmup:     21.3484 [cycles]
+ Total power (not scaled):              0.1400 [W]
+time :                          14765.441098 14765441098.000000 1.000000e+06
+
+ ***************Frame : 81*****************
+
+ GET_NALU_PE_total_packet_injected:       116849
+ DECODE_HDR_PE_total_packet_injected:     117342
+ DECODE_MB_PE_total_packet_injected:      1010133
+ INTRA_PRED_PE_total_packet_injected:     2208096
+ INTER_PRED_PE_total_packet_injected:     2208339
+ FRAME_BUFFER_PE_total_packet_injected:   2208339
+ DISPLAY_PE_total_packet_injected:        97416
+ H264 total num of packets injected:      7966514
+-----------------------------------------------
+ actual injection rate:                   88.5168
+ total num of packets injected:           7966514
+ total num inj failed (PE buff full):     0
+ num of packets delivered after warmup:   7966431
+ avg latency per packet after warmup:     21.3496 [cycles]
+ Total power (not scaled):              0.1400 [W]
+time :                          14944.119192 14944119192.000000 1.000000e+06
+
+ ***************Frame : 82*****************
+
+ GET_NALU_PE_total_packet_injected:       118274
+ DECODE_HDR_PE_total_packet_injected:     118773
+ DECODE_MB_PE_total_packet_injected:      1020256
+ INTRA_PRED_PE_total_packet_injected:     2235024
+ INTER_PRED_PE_total_packet_injected:     2235270
+ FRAME_BUFFER_PE_total_packet_injected:   2235270
+ DISPLAY_PE_total_packet_injected:        98604
+ H264 total num of packets injected:      8061471
+-----------------------------------------------
+ actual injection rate:                   89.5719
+ total num of packets injected:           8061471
+ total num inj failed (PE buff full):     0
+ num of packets delivered after warmup:   8061388
+ avg latency per packet after warmup:     21.3507 [cycles]
+ Total power (not scaled):              0.1400 [W]
+time :                          15122.767824 15122767824.000000 1.000000e+06
+
+ ***************Frame : 83*****************
+
+ GET_NALU_PE_total_packet_injected:       119699
+ DECODE_HDR_PE_total_packet_injected:     120204
+ DECODE_MB_PE_total_packet_injected:      1029495
+ INTRA_PRED_PE_total_packet_injected:     2261952
+ INTER_PRED_PE_total_packet_injected:     2262201
+ FRAME_BUFFER_PE_total_packet_injected:   2262201
+ DISPLAY_PE_total_packet_injected:        99792
+ H264 total num of packets injected:      8155544
+-----------------------------------------------
+ actual injection rate:                   90.6172
+ total num of packets injected:           8155544
+ total num inj failed (PE buff full):     0
+ num of packets delivered after warmup:   8155461
+ avg latency per packet after warmup:     21.3518 [cycles]
+ Total power (not scaled):              0.1400 [W]
+time :                          15299.815050 15299815050.000000 1.000000e+06
+
+ ***************Frame : 84*****************
+
+ GET_NALU_PE_total_packet_injected:       121124
+ DECODE_HDR_PE_total_packet_injected:     121635
+ DECODE_MB_PE_total_packet_injected:      1037918
+ INTRA_PRED_PE_total_packet_injected:     2288880
+ INTER_PRED_PE_total_packet_injected:     2289132
+ FRAME_BUFFER_PE_total_packet_injected:   2289132
+ DISPLAY_PE_total_packet_injected:        100980
+ H264 total num of packets injected:      8248801
+-----------------------------------------------
+ actual injection rate:                   91.6533
+ total num of packets injected:           8248801
+ total num inj failed (PE buff full):     0
+ num of packets delivered after warmup:   8248718
+ avg latency per packet after warmup:     21.3527 [cycles]
+ Total power (not scaled):              0.1400 [W]
+time :                          15475.377759 15475377759.000000 1.000000e+06
+
+ ***************Frame : 85*****************
+
+ GET_NALU_PE_total_packet_injected:       122549
+ DECODE_HDR_PE_total_packet_injected:     123066
+ DECODE_MB_PE_total_packet_injected:      1046069
+ INTRA_PRED_PE_total_packet_injected:     2315808
+ INTER_PRED_PE_total_packet_injected:     2316063
+ FRAME_BUFFER_PE_total_packet_injected:   2316063
+ DISPLAY_PE_total_packet_injected:        102168
+ H264 total num of packets injected:      8341786
+-----------------------------------------------
+ actual injection rate:                   92.6865
+ total num of packets injected:           8341786
+ total num inj failed (PE buff full):     0
+ num of packets delivered after warmup:   8341703
+ avg latency per packet after warmup:     21.3537 [cycles]
+ Total power (not scaled):              0.1400 [W]
+time :                          15650.450137 15650450137.000000 1.000000e+06
+
+ ***************Frame : 86*****************
+
+ GET_NALU_PE_total_packet_injected:       123974
+ DECODE_HDR_PE_total_packet_injected:     124497
+ DECODE_MB_PE_total_packet_injected:      1054832
+ INTRA_PRED_PE_total_packet_injected:     2342736
+ INTER_PRED_PE_total_packet_injected:     2342994
+ FRAME_BUFFER_PE_total_packet_injected:   2342994
+ DISPLAY_PE_total_packet_injected:        103356
+ H264 total num of packets injected:      8435383
+-----------------------------------------------
+ actual injection rate:                   93.7265
+ total num of packets injected:           8435383
+ total num inj failed (PE buff full):     0
+ num of packets delivered after warmup:   8435300
+ avg latency per packet after warmup:     21.3546 [cycles]
+ Total power (not scaled):              0.1400 [W]
+time :                          15826.644975 15826644975.000000 1.000000e+06
+
+ ***************Frame : 87*****************
+
+ GET_NALU_PE_total_packet_injected:       125399
+ DECODE_HDR_PE_total_packet_injected:     125928
+ DECODE_MB_PE_total_packet_injected:      1063595
+ INTRA_PRED_PE_total_packet_injected:     2369664
+ INTER_PRED_PE_total_packet_injected:     2369925
+ FRAME_BUFFER_PE_total_packet_injected:   2369925
+ DISPLAY_PE_total_packet_injected:        104544
+ H264 total num of packets injected:      8528980
+-----------------------------------------------
+ actual injection rate:                   94.7664
+ total num of packets injected:           8528980
+ total num inj failed (PE buff full):     0
+ num of packets delivered after warmup:   8528897
+ avg latency per packet after warmup:     21.3556 [cycles]
+ Total power (not scaled):              0.1400 [W]
+time :                          16002.939634 16002939634.000000 1.000000e+06
+
+ ***************Frame : 88*****************
+
+ GET_NALU_PE_total_packet_injected:       126824
+ DECODE_HDR_PE_total_packet_injected:     127359
+ DECODE_MB_PE_total_packet_injected:      1072698
+ INTRA_PRED_PE_total_packet_injected:     2396592
+ INTER_PRED_PE_total_packet_injected:     2396856
+ FRAME_BUFFER_PE_total_packet_injected:   2396856
+ DISPLAY_PE_total_packet_injected:        105732
+ H264 total num of packets injected:      8622917
+-----------------------------------------------
+ actual injection rate:                   95.8102
+ total num of packets injected:           8622917
+ total num inj failed (PE buff full):     0
+ num of packets delivered after warmup:   8622834
+ avg latency per packet after warmup:     21.3565 [cycles]
+ Total power (not scaled):              0.1400 [W]
+time :                          16179.844827 16179844827.000000 1.000000e+06
+
+ ***************Frame : 89*****************
+
+ GET_NALU_PE_total_packet_injected:       128249
+ DECODE_HDR_PE_total_packet_injected:     128790
+ DECODE_MB_PE_total_packet_injected:      1081189
+ INTRA_PRED_PE_total_packet_injected:     2423520
+ INTER_PRED_PE_total_packet_injected:     2423787
+ FRAME_BUFFER_PE_total_packet_injected:   2423787
+ DISPLAY_PE_total_packet_injected:        106920
+ H264 total num of packets injected:      8716242
+-----------------------------------------------
+ actual injection rate:                   96.8471
+ total num of packets injected:           8716242
+ total num inj failed (PE buff full):     0
+ num of packets delivered after warmup:   8716159
+ avg latency per packet after warmup:     21.3574 [cycles]
+ Total power (not scaled):              0.1400 [W]
+time :                          16355.657521 16355657521.000000 1.000000e+06
+
+ ***************Frame : 90*****************
+
+ GET_NALU_PE_total_packet_injected:       129674
+ DECODE_HDR_PE_total_packet_injected:     130221
+ DECODE_MB_PE_total_packet_injected:      1089884
+ INTRA_PRED_PE_total_packet_injected:     2450448
+ INTER_PRED_PE_total_packet_injected:     2450718
+ FRAME_BUFFER_PE_total_packet_injected:   2450718
+ DISPLAY_PE_total_packet_injected:        108108
+ H264 total num of packets injected:      8809771
+-----------------------------------------------
+ actual injection rate:                   97.8863
+ total num of packets injected:           8809771
+ total num inj failed (PE buff full):     0
+ num of packets delivered after warmup:   8809688
+ avg latency per packet after warmup:     21.3582 [cycles]
+ Total power (not scaled):              0.1400 [W]
+time :                          16531.638519 16531638519.000000 1.000000e+06
+
+ ***************Frame : 91*****************
+
+ GET_NALU_PE_total_packet_injected:       131099
+ DECODE_HDR_PE_total_packet_injected:     131652
+ DECODE_MB_PE_total_packet_injected:      1098851
+ INTRA_PRED_PE_total_packet_injected:     2477376
+ INTER_PRED_PE_total_packet_injected:     2477649
+ FRAME_BUFFER_PE_total_packet_injected:   2477649
+ DISPLAY_PE_total_packet_injected:        109296
+ H264 total num of packets injected:      8903572
+-----------------------------------------------
+ actual injection rate:                   98.9286
+ total num of packets injected:           8903572
+ total num inj failed (PE buff full):     0
+ num of packets delivered after warmup:   8903489
+ avg latency per packet after warmup:     21.3591 [cycles]
+ Total power (not scaled):              0.1400 [W]
+time :                          16708.260049 16708260049.000000 1.000000e+06
+
+ ***************Frame : 92*****************
+
+ GET_NALU_PE_total_packet_injected:       132524
+ DECODE_HDR_PE_total_packet_injected:     133083
+ DECODE_MB_PE_total_packet_injected:      1107410
+ INTRA_PRED_PE_total_packet_injected:     2504304
+ INTER_PRED_PE_total_packet_injected:     2504580
+ FRAME_BUFFER_PE_total_packet_injected:   2504580
+ DISPLAY_PE_total_packet_injected:        110484
+ H264 total num of packets injected:      8996965
+-----------------------------------------------
+ actual injection rate:                   99.9663
+ total num of packets injected:           8996965
+ total num inj failed (PE buff full):     0
+ num of packets delivered after warmup:   8996882
+ avg latency per packet after warmup:     21.3599 [cycles]
+ Total power (not scaled):              0.1400 [W]
+time :                          16884.066262 16884066262.000000 1.000000e+06
+
+ ***************Frame : 93*****************
+
+ GET_NALU_PE_total_packet_injected:       133949
+ DECODE_HDR_PE_total_packet_injected:     134514
+ DECODE_MB_PE_total_packet_injected:      1116243
+ INTRA_PRED_PE_total_packet_injected:     2531232
+ INTER_PRED_PE_total_packet_injected:     2531511
+ FRAME_BUFFER_PE_total_packet_injected:   2531511
+ DISPLAY_PE_total_packet_injected:        111672
+ H264 total num of packets injected:      9090632
+-----------------------------------------------
+ actual injection rate:                   101.0070
+ total num of packets injected:           9090632
+ total num inj failed (PE buff full):     0
+ num of packets delivered after warmup:   9090549
+ avg latency per packet after warmup:     21.3606 [cycles]
+ Total power (not scaled):              0.1400 [W]
+time :                          17060.320353 17060320353.000000 1.000000e+06
+
+ ***************Frame : 94*****************
+
+ GET_NALU_PE_total_packet_injected:       135374
+ DECODE_HDR_PE_total_packet_injected:     135945
+ DECODE_MB_PE_total_packet_injected:      1125414
+ INTRA_PRED_PE_total_packet_injected:     2558160
+ INTER_PRED_PE_total_packet_injected:     2558442
+ FRAME_BUFFER_PE_total_packet_injected:   2558442
+ DISPLAY_PE_total_packet_injected:        112860
+ H264 total num of packets injected:      9184637
+-----------------------------------------------
+ actual injection rate:                   102.0515
+ total num of packets injected:           9184637
+ total num inj failed (PE buff full):     0
+ num of packets delivered after warmup:   9184554
+ avg latency per packet after warmup:     21.3614 [cycles]
+ Total power (not scaled):              0.1400 [W]
+time :                          17237.378298 17237378298.000000 1.000000e+06
+
+ ***************Frame : 95*****************
+
+ GET_NALU_PE_total_packet_injected:       136799
+ DECODE_HDR_PE_total_packet_injected:     137376
+ DECODE_MB_PE_total_packet_injected:      1133701
+ INTRA_PRED_PE_total_packet_injected:     2585088
+ INTER_PRED_PE_total_packet_injected:     2585373
+ FRAME_BUFFER_PE_total_packet_injected:   2585373
+ DISPLAY_PE_total_packet_injected:        114048
+ H264 total num of packets injected:      9277758
+-----------------------------------------------
+ actual injection rate:                   103.0862
+ total num of packets injected:           9277758
+ total num inj failed (PE buff full):     0
+ num of packets delivered after warmup:   9277675
+ avg latency per packet after warmup:     21.3622 [cycles]
+ Total power (not scaled):              0.1400 [W]
+time :                          17412.694916 17412694916.000000 1.000000e+06
+
+ ***************Frame : 96*****************
+
+ GET_NALU_PE_total_packet_injected:       138224
+ DECODE_HDR_PE_total_packet_injected:     138807
+ DECODE_MB_PE_total_packet_injected:      1142464
+ INTRA_PRED_PE_total_packet_injected:     2612016
+ INTER_PRED_PE_total_packet_injected:     2612304
+ FRAME_BUFFER_PE_total_packet_injected:   2612304
+ DISPLAY_PE_total_packet_injected:        115236
+ H264 total num of packets injected:      9371355
+-----------------------------------------------
+ actual injection rate:                   104.1262
+ total num of packets injected:           9371355
+ total num inj failed (PE buff full):     0
+ num of packets delivered after warmup:   9371272
+ avg latency per packet after warmup:     21.3630 [cycles]
+ Total power (not scaled):              0.1400 [W]
+time :                          17588.900274 17588900274.000000 1.000000e+06
+
+ ***************Frame : 97*****************
+
+ GET_NALU_PE_total_packet_injected:       139649
+ DECODE_HDR_PE_total_packet_injected:     140238
+ DECODE_MB_PE_total_packet_injected:      1151839
+ INTRA_PRED_PE_total_packet_injected:     2638944
+ INTER_PRED_PE_total_packet_injected:     2639235
+ FRAME_BUFFER_PE_total_packet_injected:   2639235
+ DISPLAY_PE_total_packet_injected:        116424
+ H264 total num of packets injected:      9465564
+-----------------------------------------------
+ actual injection rate:                   105.1729
+ total num of packets injected:           9465564
+ total num inj failed (PE buff full):     0
+ num of packets delivered after warmup:   9465481
+ avg latency per packet after warmup:     21.3638 [cycles]
+ Total power (not scaled):              0.1400 [W]
+time :                          17766.228642 17766228642.000000 1.000000e+06
+
+ ***************Frame : 98*****************
+
+ GET_NALU_PE_total_packet_injected:       141074
+ DECODE_HDR_PE_total_packet_injected:     141669
+ DECODE_MB_PE_total_packet_injected:      1161146
+ INTRA_PRED_PE_total_packet_injected:     2665872
+ INTER_PRED_PE_total_packet_injected:     2666166
+ FRAME_BUFFER_PE_total_packet_injected:   2666166
+ DISPLAY_PE_total_packet_injected:        117612
+ H264 total num of packets injected:      9559705
+-----------------------------------------------
+ actual injection rate:                   106.2189
+ total num of packets injected:           9559705
+ total num inj failed (PE buff full):     0
+ num of packets delivered after warmup:   9559622
+ avg latency per packet after warmup:     21.3646 [cycles]
+ Total power (not scaled):              0.1400 [W]
+time :                          17943.229812 17943229812.000000 1.000000e+06
+
+ ***************Frame : 99*****************
+
+ GET_NALU_PE_total_packet_injected:       142499
+ DECODE_HDR_PE_total_packet_injected:     143100
+ DECODE_MB_PE_total_packet_injected:      1170657
+ INTRA_PRED_PE_total_packet_injected:     2692800
+ INTER_PRED_PE_total_packet_injected:     2693097
+ FRAME_BUFFER_PE_total_packet_injected:   2693097
+ DISPLAY_PE_total_packet_injected:        118800
+ H264 total num of packets injected:      9654050
+-----------------------------------------------
+ actual injection rate:                   107.2672
+ total num of packets injected:           9654050
+ total num inj failed (PE buff full):     0
+ num of packets delivered after warmup:   9653967
+ avg latency per packet after warmup:     21.3653 [cycles]
+ Total power (not scaled):              0.1400 [W]
+time :                          18120.792361 18120792361.000000 1.000000e+06
+
+ ***************Frame : 100*****************
+
+ GET_NALU_PE_total_packet_injected:       143924
+ DECODE_HDR_PE_total_packet_injected:     144531
+ DECODE_MB_PE_total_packet_injected:      1180236
+ INTRA_PRED_PE_total_packet_injected:     2719728
+ INTER_PRED_PE_total_packet_injected:     2720028
+ FRAME_BUFFER_PE_total_packet_injected:   2720028
+ DISPLAY_PE_total_packet_injected:        119988
+ H264 total num of packets injected:      9748463
+-----------------------------------------------
+ actual injection rate:                   108.3163
+ total num of packets injected:           9748463
+ total num inj failed (PE buff full):     0
+ num of packets delivered after warmup:   9748380
+ avg latency per packet after warmup:     21.3661 [cycles]
+ Total power (not scaled):              0.1400 [W]
+time :                          18298.548054 18298548054.000000 1.000000e+06
