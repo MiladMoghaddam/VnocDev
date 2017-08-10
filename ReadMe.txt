@@ -1,4 +1,4 @@
-########################### VnocDec = VNoC + H.264Dec #############################################
+######################VnocDec = VNoC + H.264Dec#############################
 VnocDec is a full system simulation framework for a network-on-chip (NoC)-based H.264 video that is 
 built by combinining a network-on-chip simulator (VNoC[1]) and a basic H.264 video decoder[2].
 Here we have the first version of the simulator that can be considered as a base for further
