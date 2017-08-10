@@ -8,6 +8,9 @@ NoC on latency and power.
 The simulator also gives us the opportunity to investigate the DVFS for network-on-chip based H. 264
 video decoders with truly real workload
 For further explanation about the framework please look at [3][4].
+****************************************************************************
+(Please cite references [3] and [4] in case you used the code in your work)
+****************************************************************************
 
 [1] Software downloads at MESSLab, Marquette University, 2016.[On-line].
     Available: http://dejazzer.com/software.html.
