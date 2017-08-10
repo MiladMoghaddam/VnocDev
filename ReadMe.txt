@@ -18,11 +18,9 @@ For further explanation about the framework please look at [3][4].
 [2] Martin Fiedler, Implementation of a basic H.264/AVC Decoder, 2016.[Online].
     Available:http://keyj.emphy.de/files/projects/h264-src.tar.gz
 
-[3] M.G. Moghaddam and C. Ababei, “Performance Evaluation of Network-on-Chip Based H.264 Video Decoders
-    via Full System Simulation,” IEEE Embedded Systems Letters, vol. 9, no. 2 , pp. 49-52, Mar. 2017.
+[3] M.G. Moghaddam and C. Ababei, “Performance Evaluation of Network-on-Chip Based H.264 Video Decoders via Full System Simulation,” IEEE Embedded Systems Letters, vol. 9, no. 2 , pp. 49-52, Mar. 2017.
 
-[4] M.G Moghaddam and C. Ababei, “Investigation of DVFS for Network-on-Chip Based H.264 Video Decoders
-    with Truly Real Workload,” IEEE Int. Workshop on Green and Sustainable Computing (IGSC), 2016.
+[4] M.G Moghaddam and C. Ababei, “Investigation of DVFS for Network-on-Chip Based H.264 Video Decoders with Truly Real Workload,” IEEE Int. Workshop on Green and Sustainable Computing (IGSC), 2016.
 
 ###################################################################################################
 Developed by:
@@ -63,10 +61,8 @@ How to run:
 - do_dvfs = 0 means Dynamic Voltage and Frequency Scaling (DVFS) controller is off
 - do_dvfs = 1 means DVFS controller is on
 - when do_dvfs = 1, if use_boost = 0, it means that DVFS controller is not allowed to boost the frequency
-- when do_dvfs = 1, if use_boost = 1, it means that DVFS controller is allowed to boost the frequency 
-  to use higher frequencies
-- hist_window allows the DVFS controller to use the past hist_window size operations in link and buffers
-  to predict the optimal frequency 
+- when do_dvfs = 1, if use_boost = 1, it means that DVFS controller is allowed to boost the frequency to use higher frequencies
+- hist_window allows the DVFS controller to use the past hist_window size operations in link and buffers to predict the optimal frequency 
 
 ######################################################################################################
 Changing the benchmark:
