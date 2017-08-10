@@ -26,7 +26,7 @@ For further explanation about the framework please look at [3][4].
 
 ###################################################################################################
 Developed by:
-   Milad Ghorbani Moghaddam, Cristinel Ababei
+   Milad Ghorbani Moghaddam, Dr. Cristinel Ababei
    milad.ghorbanimoghaddam@marquette.edu, cristinel.ababei@marquette.edu
 
 ###################################################################################################
